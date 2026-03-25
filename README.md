@@ -13,3 +13,9 @@ This helps us create catergorical columns from numeric columns based on specific
 
 # SQL exercise; Joins, UNION, Filtering and Aggregates 
 This is based on a command clause that combines records from two or more tables. This means combining data in fields from two tables by using values common to each table. If you work with databases, you'll likely need to use SQL Joins to retrieve data from multiple tables at some point in your work.
+
+# BRIGHTLEARN SQL QUERIES EXCERCISE
+On this exercise I have written queries exploring my data. On these queries I've explored date ranges, types of products sold and details of the products. After that I was able to calculate peak time intervals and and quantity of items sold.
+
+# COFFEE SHOP SALES ANALYSIS IN EXCEL
+On this worksheet I was able to clean a raw data set. Created a pivot table indicating TOTAL REVENUE PER PRODUCT, QUANTITY OF ITEMS SOLD BY PRODUCT CATERGORY and a bar chart indicating products bringing in the most revenue in ascending order. 
