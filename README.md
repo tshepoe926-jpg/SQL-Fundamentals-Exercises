@@ -19,3 +19,7 @@ On this exercise I have written queries exploring my data. On these queries I've
 
 # COFFEE SHOP SALES ANALYSIS IN EXCEL
 On this worksheet I was able to clean a raw data set. Created a pivot table indicating TOTAL REVENUE PER PRODUCT, QUANTITY OF ITEMS SOLD BY PRODUCT CATERGORY and a bar chart indicating products bringing in the most revenue in ascending order. 
+
+# BL MIND MAP AND PLANNING 
+In this folder it is where I did my mind mapping and planning steps to complete the project.
+
