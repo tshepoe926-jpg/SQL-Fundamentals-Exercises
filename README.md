@@ -23,3 +23,10 @@ On this worksheet I was able to clean a raw data set. Created a pivot table indi
 # BL MIND MAP AND PLANNING 
 In this folder it is where I did my mind mapping and planning steps to complete the project.
 
+# CANVA SLIDE PRESENTATION
+In this file I have created a gun chart demonstrating my process from start to finish.
+Followed by a mind map and flow chart I have created on Miro.
+I've also created a pivot table showing revenue per product and a bar chart from highest to lowest which showed us that the Barista Expresso being the highest seller and Green Beans being the least seller.
+
+
+
